@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AndroidTest</string>
     <string name="button">Button</string>
+    <string name="git_is_great">Git is great!</string>
 </resources>
